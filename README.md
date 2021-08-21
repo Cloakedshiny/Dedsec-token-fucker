@@ -1,4 +1,15 @@
+The modules you need : 
 
-If 	the token f!cker doesnt work it means you entered a wrong token have a nice day 
-- install the next modules : discord, threading, colorama, requests, time, os, json
- - its for educational purposes only im not responsible of ur actions
+- discord
+- threading
+- colorama
+- requests
+- time
+- os
+- json
+
+If it doesnt start your token is invalid or 
+you need to edit the config.json
+
+Im not responsible of your actions its for educational purposes only !
+
